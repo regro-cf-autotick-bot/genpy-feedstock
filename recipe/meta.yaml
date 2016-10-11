@@ -33,11 +33,11 @@ test:
         - {{ name }}
 
 about:
-    home: http://pypi.python.org/pypi/{{ name }}
+    home: http://pypi.python.org/pypi/genpy
     license: MIT
     license_file: LICENSE
     summary: AST-based Python source generation
-    dev_url: http://github.com/inducer/{{ name }}
+    dev_url: http://github.com/inducer/genpy
 
 extra:
     recipe-maintainers:
